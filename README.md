@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aritro Paul</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+web+Developer;I+am+committed+to+lifelong+learning)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+web+Developer;I+am+committed+to+lifelong+learning" alt="Typing SVG" /></a>
 <h3 align="center">As a passionate frontend developer, I am always striving to keep up-to-date with the latest technologies and trends in the field. With experience completing both minor and major projects, working both on teams and solo, I have developed a strong foundation in programming languages such as HTML, CSS, JavaScript, Java, and SQL. I am committed to delivering the best possible user experience, and I enjoy working with teams to create intuitive and engaging websites that meet the needs of clients and end-users alike. I am comfortable taking on new challenges, and I am always seeking opportunities to expand my skill set and grow as a developer.</h3>
 

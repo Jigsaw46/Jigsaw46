@@ -5,7 +5,7 @@
 
 <div align="center">
        ## 🌐 Socials:
-       [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aritro-paul-        6a7a201b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://mobile.twitter.com/AritroP74)
+       [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aritro-paul-  6a7a201b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://mobile.twitter.com/AritroP74)
  </div>
 
 # 💻 Tech Stack:

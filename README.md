@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+passionate+web+developer.;I+am+lifelong+learner." alt="Typing SVG" /></a>
   </p>
 <div align="center">
-    ⏩ <a align="center" href="https://www.aritropaul.me">Find me Here! aritropaul.me!</a>
+    ⏩ <a align="center" href="www.aritropaul.me">Find me Here! aritropaul.me!</a>
 </div>
 
 ## 🌐 Socials:

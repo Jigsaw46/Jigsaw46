@@ -1,3 +1,4 @@
+<div class="vista-create-share" data-vista-create-id="643cc6d04abeadd866210332"></div><script type="text/javascript" src="https://static.create.vista.com/js/embedded_v1.min.js?v=1.307.8" async></script>
 <h1 align="center">Hi 👋, I'm Aritro Paul</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+passionate+web+developer.;I+am+lifelong+learner." alt="Typing SVG" /></a>

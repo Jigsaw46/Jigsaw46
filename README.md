@@ -21,3 +21,5 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+<br>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />

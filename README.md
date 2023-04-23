@@ -18,8 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigsaw46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-<br/>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

@@ -1,9 +1,6 @@
 ![LinkedIn Cover 1584x396 px](https://user-images.githubusercontent.com/75370985/232676759-4379c66b-1bc6-4cf7-b3b3-c57b24fab096.jpeg)
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <h1 align="center">Hi 👋, I'm Aritro Paul</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+passionate+web+developer.;I+am+lifelong+learner." alt="Typing SVG" /></a>

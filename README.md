@@ -5,10 +5,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+passionate+web+developer.;I+am+lifelong+learner." alt="Typing SVG" /></a>
   </p>
-<div align="center">
-     <h2> More ☕, less 💤. </h2>
-    ⏩ <a align="center" href="www.aritropaul.me">Find me Here! aritropaul.me!</a>
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aritro-paul-6a7a201b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://mobile.twitter.com/AritroP74)
